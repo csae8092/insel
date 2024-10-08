@@ -72,6 +72,10 @@
                         <imprint>
                            <biblScope unit="jg">I</biblScope>
                            <biblScope unit="volume">1</biblScope>
+                           <biblScope unit="issue">2</biblScope>
+                           <biblScope unit="publ-month">11</biblScope>
+                           <biblScope unit="publ-year">1899</biblScope>
+                           <biblScope unit="page" from="360" to="367">247-352</biblScope>
                         </imprint>
                      </monogr>
                   </biblStruct>
@@ -579,7 +583,7 @@
                      <analytic>
                         <author ref="pmb_182217">Jacques de Baisteux</author>
                         <title>Von den drei Rittern und dem Hemd. Aus dem Französischen des
-                                    XIII. Jahrhunderts von <persName ref="pmb_182035" role="translator">Louise Ernst</persName>
+                        XIII. Jahrhunderts von <persName ref="pmb_182035" role="translator">Louise Ernst</persName>
                         </title>
                      </analytic>
                      <monogr>
@@ -599,8 +603,8 @@
                      <analytic>
                         <author ref="pmb_182038">Scipione Bargagli</author>
                         <title>Von der Liebe zwischen Uguccione und Antilia, mannigfachem
-                                    Mißgeschick und endlichem glücklichem Ausgang. Aus dem
-                                    Italienischen des XVI. Jahrhunderts von <persName ref="pmb_11265" role="translator">Paul Ernst</persName>
+                        Mißgeschick und endlichem glücklichem Ausgang. Aus dem
+                        Italienischen des XVI. Jahrhunderts von <persName ref="pmb_11265" role="translator">Paul Ernst</persName>
                         </title>
                      </analytic>
                      <monogr>
@@ -620,8 +624,8 @@
                      <analytic>
                         <author ref="pmb_13870">Aubrey Beardsley</author>
                         <title>Unter dem Hügel. Eine romantische Novelle. Aus dem Englischen
-                                    übersetzt von <persName ref="pmb_12722" role="translator">Rudolf Alexander
-                                    Schröder</persName>
+                        übersetzt von <persName ref="pmb_12722" role="translator">Rudolf Alexander
+                        Schröder</persName>
                         </title>
                      </analytic>
                      <monogr>
@@ -639,7 +643,7 @@
                      <analytic>
                         <author ref="pmb_13870">Aubrey Beardsley</author>
                         <title>Die drei Musikanten. Übersetzt aus dem Englischen von <persName ref="pmb_12722" role="translator">Rudolf Alexander
-                                    Schröder</persName>
+                        Schröder</persName>
                         </title>
                      </analytic>
                      <monogr>
@@ -677,9 +681,9 @@
                      <analytic>
                         <author ref="pmb_10928">Otto Julius Bierbaum</author>
                         <title n="1">Acht Gedichte aus dem Buche Glück (Vorwort zum Buche Glück /
-                                    Vorgesicht / Pulchra ut sol, clara ut lux / Beata / Mit der
-                                    Stielbrille / Patrona navis / Entsagung / Hans im
-                                    Gehäuse)</title>
+                        Vorgesicht / Pulchra ut sol, clara ut lux / Beata / Mit der
+                        Stielbrille / Patrona navis / Entsagung / Hans im
+                        Gehäuse)</title>
                      </analytic>
                      <monogr>
                         <imprint>
@@ -872,8 +876,8 @@
                      <analytic>
                         <author ref="pmb_10928">Otto Julius Bierbaum</author>
                         <title>Die Hirtin und der Schornsteinfeger oder das ist der Lauf der
-                                    Welt. Singspielchen in drei Aufzügen. Nach dem <persName ref="pmb_5981">Andersen</persName>schen
-                                    Märchen. Musik von <persName role="composer" ref="pmb_20023">Carl Lafite</persName>
+                        Welt. Singspielchen in drei Aufzügen. Nach dem <persName ref="pmb_5981">Andersen</persName>schen
+                        Märchen. Musik von <persName role="composer" ref="pmb_20023">Carl Lafite</persName>
                         </title>
                      </analytic>
                      <monogr>
@@ -891,7 +895,7 @@
                      <analytic>
                         <author ref="pmb_10928">Otto Julius Bierbaum</author>
                         <title>Die kleine Muse. Gesprochen von Fräulein <persName role="speaker" ref="pmb_182218">Felicita Cerigioli</persName>
-                                    vom kgl. Schauspiel–Hause</title>
+                       vom kgl. Schauspiel–Hause</title>
                      </analytic>
                      <monogr>
                         <imprint>
@@ -1325,8 +1329,8 @@
                      <analytic>
                         <author ref="pmb_10955">Franz Blei</author>
                         <title>Die Hirtin und der Schornsteinfeger oder das ist der Lauf der
-                                    Welt. Singspielchen in drei Aufzügen. Nach dem <persName ref="pmb_5981">Andersen</persName>schen
-                                    Märchen. Musik von <persName role="composer" ref="pmb_20023">Carl Lafite</persName>
+                        Welt. Singspielchen in drei Aufzügen. Nach dem <persName ref="pmb_5981">Andersen</persName>schen
+                        Märchen. Musik von <persName role="composer" ref="pmb_20023">Carl Lafite</persName>
                         </title>
                      </analytic>
                      <monogr>
@@ -1375,12 +1379,11 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-                  <!-- Sonderfall "Vier Grotesken": dritter Beitrag ist in drei Teilen erschienen -->
                   <biblStruct>
                      <analytic>
                         <author ref="pmb_10955">Franz Blei</author>
                         <title n="1">Vier Grotesken (Das Beispiel des <persName ref="pmb_157044">Gilles de Rais</persName> / <persName ref="pmb_117139">Ninon de
-                                    Lenclos</persName> / Prinz Hypolit)</title>
+                        Lenclos</persName> / Prinz Hypolit)</title>
                      </analytic>
                      <monogr>
                         <imprint>
@@ -1462,7 +1465,6 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-                  <!--  -->
                </item>
                <item>
                   <biblStruct>
@@ -2109,7 +2111,6 @@
                   <biblStruct>
                      <analytic>
                         <author ref="pmb_182044">Anna Croissant–Rust</author>
-                        <!-- NEU angelegt am 5.7. (sw) -->
                         <title>Pimpernellche</title>
                      </analytic>
                      <monogr>
@@ -2446,7 +2447,6 @@
                   <biblStruct>
                      <analytic>
                         <author ref="pmb_182047">Eugène Demolder</author>
-                        <!-- NEU angelegt am 5.7. (sw) -->
                         <title>Die Stimme des Blutes. Phantastische
                                 Erzählung. Aus der Handschrift frei ins Deutsche übertragen von <persName role="translator" ref="pmb_10928">Otto Julius Bierbaum</persName>
                         </title>
@@ -2482,12 +2482,10 @@
                      </monogr>
                   </biblStruct>
                </item>
-               <!-- NEU angelegt am 5.7. (sw) -->
                <item>
                   <biblStruct>
                      <analytic>
                         <author ref="pmb_182052">Messer Sebastiano Erizzo</author>
-                        <!-- NEU angelegt am 5.7. (sw) -->
                         <title>Wie Kaiser Karl der Große eine tote
                             Jungfrau liebte. Aus dem Italienischen des XVI. Jahrhunderts von <persName role="translator" ref="pmb_11265">Paul Ernst</persName>
                         </title>
@@ -2574,7 +2572,6 @@
                   <biblStruct>
                      <analytic>
                         <author ref="pmb_182055">Franz Evers</author>
-                        <!-- NEU angelegt am 5.7. plus "Niemberg" als Ort angelegt (sw) -->
                         <title>Abschied</title>
                      </analytic>
                      <monogr>
@@ -2851,8 +2848,7 @@
                   <biblStruct>
                      <analytic>
                         <author ref="pmb_7360">Ludwig Geiger</author>
-                        <title>Eine
-                                Ausgestoßene (<persName ref="pmb_182066">Elise Bürger</persName>)</title>
+                        <title>Eine Ausgestoßene (<persName ref="pmb_182066">Elise Bürger</persName>)</title>
                      </analytic>
                      <monogr>
                         <imprint>
@@ -2866,13 +2862,11 @@
                      </monogr>
                   </biblStruct>
                </item>
-               <!-- NEU angelegt inkl. Beziehung zu G. A. Bürger am 15.7. (sw) -->
                <item>
                   <biblStruct>
                      <analytic>
                         <author ref="pmb_11435">André Gide</author>
-                        <title>Der
-                            schlechtgefesselte Prometheus. Aus dem Französischen von M. B.</title>
+                        <title>Der schlechtgefesselte Prometheus. Aus dem Französischen von M. B.</title>
                      </analytic>
                      <monogr n="1">
                         <imprint>
@@ -3076,9 +3070,7 @@
                   <biblStruct>
                      <analytic>
                         <author ref="pmb_182070">Verner von Haidenstam</author>
-                        <!-- NEU angelegt am 15.7. (sw) -->
-                        <title>Herbstlied. Übertragung aus dem
-                                Schwedischen nach dem Versmaße des Originals von <persName ref="pmb_182075">E. Stine</persName>
+                        <title>Herbstlied. Übertragung aus dem Schwedischen nach dem Versmaße des Originals von <persName ref="pmb_182075">E. Stine</persName>
                         </title>
                      </analytic>
                      <monogr>
@@ -3093,7 +3085,6 @@
                      </monogr>
                   </biblStruct>
                </item>
-               <!-- NEU angelegt am 15.7. (sw) -->
                <item>
                   <biblStruct>
                      <analytic>
@@ -3177,8 +3168,7 @@
                   <biblStruct>
                      <analytic>
                         <author ref="pmb_156721">José Maria de Hérédia</author>
-                        <title n="1_2">Der Zimmermann von Nazareth. Deutsch von <persName ref="pmb_9674">Richard
-                                        Schaukal</persName>
+                        <title n="1_2">Der Zimmermann von Nazareth. Deutsch von <persName ref="pmb_9674">Richard Schaukal</persName>
                         </title>
                      </analytic>
                      <monogr>
@@ -3195,8 +3185,7 @@
                   <biblStruct>
                      <analytic>
                         <author ref="pmb_156721">José Maria de Hérédia</author>
-                        <title n="1_3">Das Kirchenfenster. Deutsch von <persName ref="pmb_9674">Richard
-                                        Schaukal</persName>
+                        <title n="1_3">Das Kirchenfenster. Deutsch von <persName ref="pmb_9674">Richard Schaukal</persName>
                         </title>
                      </analytic>
                      <monogr>
@@ -3231,8 +3220,7 @@
                   <biblStruct>
                      <analytic>
                         <author ref="pmb_156721">José Maria de Hérédia</author>
-                        <title n="1_5">Der Läufer. Deutsch von <persName ref="pmb_9674">Richard
-                                        Schaukal</persName>
+                        <title n="1_5">Der Läufer. Deutsch von <persName ref="pmb_9674">Richard Schaukal</persName>
                         </title>
                      </analytic>
                      <monogr>
@@ -3249,8 +3237,7 @@
                   <biblStruct>
                      <analytic>
                         <author ref="pmb_156721">José Maria de Hérédia</author>
-                        <title n="1_6">Antonius und Cleopatra. Deutsch von <persName ref="pmb_9674">Richard
-                                        Schaukal</persName>
+                        <title n="1_6">Antonius und Cleopatra. Deutsch von <persName ref="pmb_9674">Richard Schaukal</persName>
                         </title>
                      </analytic>
                      <monogr>
@@ -3269,8 +3256,7 @@
                   <biblStruct>
                      <analytic>
                         <author ref="pmb_7855">Alfred Walter Heymel</author>
-                        <title>Das
-                            Liebesschloß</title>
+                        <title>Das Liebesschloß</title>
                      </analytic>
                      <monogr>
                         <imprint>
@@ -3633,8 +3619,7 @@
                   <biblStruct>
                      <analytic>
                         <author ref="pmb_11763">Arno Holz</author>
-                        <title>Blinde Liebe. Eine Geschichte aus den höchsten Kreisen. Sehr
-                            frei nach dem Englischen des <persName rend="pmb_182103">Laurence Housman</persName> von <persName ref="pmb_11148">Richard Dehmel</persName>
+                        <title>Blinde Liebe. Eine Geschichte aus den höchsten Kreisen. Sehr frei nach dem Englischen des <persName rend="pmb_182103">Laurence Housman</persName> von <persName ref="pmb_11148">Richard Dehmel</persName>
                         </title>
                      </analytic>
                      <monogr>
@@ -3720,10 +3705,7 @@
                   <biblStruct>
                      <analytic>
                         <author ref="pmb_182077">Gustave Kahn</author>
-                        <!-- NEU angelegt am 15.7. (sw) -->
-                        <title>Cyprian Barballe. Aus der
-                                Handschrift übersetzt von <persName role="translator" ref="pmb_10928">Otto Julius
-                                Bierbaum</persName>
+                        <title>Cyprian Barballe. Aus der Handschrift übersetzt von <persName role="translator" ref="pmb_10928">Otto Julius Bierbaum</persName>
                         </title>
                      </analytic>
                      <monogr>
@@ -3761,9 +3743,7 @@
                   <biblStruct>
                      <analytic>
                         <author ref="pmb_11919">Ellen Key</author>
-                        <title>Schwedens modernster Dichter. <persName ref="pmb_112643">Carl
-                                Jonas Ludvic Almquist</persName> Autorisierte Übertragung aus dem
-                                Schwedischen von <persName role="translator" ref="pmb_88457">Francis Maro</persName>
+                        <title>Schwedens modernster Dichter. <persName ref="pmb_112643">Carl Jonas Ludvic Almquist</persName> Autorisierte Übertragung aus dem Schwedischen von <persName role="translator" ref="pmb_88457">Francis Maro</persName>
                         </title>
                      </analytic>
                      <monogr n="1">
@@ -3792,7 +3772,6 @@
                   <biblStruct>
                      <analytic>
                         <author ref="pmb_182080">Gerhard Ouckama Knoop</author>
-                        <!-- NEU angelegt am 15.7. (sw) -->
                         <title>Der letzte Elefant</title>
                      </analytic>
                      <monogr>
@@ -3811,7 +3790,6 @@
                   <biblStruct>
                      <analytic>
                         <author ref="pmb_98186">Franz von Königsbrun-Schaup</author>
-                        <!-- Ergänzt am 31.7. (sw) -->
                         <title>Die Trimurti und die neun Seelen</title>
                      </analytic>
                      <monogr>
@@ -4012,8 +3990,7 @@
                   <biblStruct>
                      <analytic>
                         <author ref="pmb_12071">Detlev von Liliencron</author>
-                        <title n="1">Elf Gedichte (Lockung in die Ferne / Natur / Aussicht vom Schlosse / Armut, Einsamkeit und Freiheit / Unvermutetes Rendezvous / Nis van Bombell / Martje Flors Trinkspruch / Der 
-                                Teufel in der Not / Das Opfer / Der Blitzzug / Couplet)</title>
+                        <title n="1">Elf Gedichte (Lockung in die Ferne / Natur / Aussicht vom Schlosse / Armut, Einsamkeit und Freiheit / Unvermutetes Rendezvous / Nis van Bombell / Martje Flors Trinkspruch / Der Teufel in der Not / Das Opfer / Der Blitzzug / Couplet)</title>
                      </analytic>
                      <monogr>
                         <imprint>
@@ -4302,7 +4279,6 @@
                      </monogr>
                   </biblStruct>
                   <biblStruct>
-                            <!-- ID gefunden, Eintrag ergänzt -->
                      <analytic>
                         <author ref="pmb_12156">Maurice Maeterlinck</author>
                         <title>Das moderne Drama. Übersetzt von <persName role="translator" ref="pmb_9149">Friedrich von Oppeln</persName>
@@ -4507,9 +4483,7 @@
                   <biblStruct>
                      <analytic>
                         <author ref="pmb_156013">Mechthild von Magdeburg</author>
-                        <title>Gedichte der Schwester <persName ref="pmb_156013">Mechthild von
-                                Magdeburg</persName> (Das fließende Licht der Gottheit). Anmerkungen
-                                und Auszüge ins Hochdeutsche übertragen von <persName role="translator" ref="pmb_10955">Franz Blei</persName>
+                        <title>Gedichte der Schwester <persName ref="pmb_156013">Mechthild von Magdeburg</persName> (Das fließende Licht der Gottheit). Anmerkungen und Auszüge ins Hochdeutsche übertragen von <persName role="translator" ref="pmb_10955">Franz Blei</persName>
                         </title>
                      </analytic>
                      <monogr>
@@ -4835,7 +4809,6 @@
                      </monogr>
                   </biblStruct>
                   <biblStruct>
-                            <!-- angelegt am 22.7.24 (sw) -->
                      <analytic>
                         <author ref="pmb_12358">Friedrich Nietzsche</author>
                         <title>Genueser Gedankengänge. Buchpläne und Aphorismen</title>
@@ -4929,7 +4902,6 @@
                   <biblStruct>
                      <analytic>
                         <author ref="pmb_182088">Friedrich Perzynski</author>
-                        <!-- angelegt am 22.7.24 (sw) -->
                         <title>An den Frühling</title>
                      </analytic>
                      <monogr>
@@ -4965,7 +4937,6 @@
                      <analytic>
                         <author ref="pmb_155442">Plinius der Jüngere</author>
                         <title>Zwei Briefe (An <persName ref="pmb_182091">Septitius Clarus</persName>. An <persName ref="pmb_38345">Cornelius Tacitus</persName>)</title>
-                        <!-- angelegt am 22.7.24 (sw) -->
                      </analytic>
                      <monogr>
                         <imprint>
@@ -5036,7 +5007,6 @@
                   <biblStruct>
                      <analytic>
                         <author ref="pmb_182092">Fritz Rassow</author>
-                        <!-- angelegt am 22.7.24 (sw) -->
                         <title>Disharmonie</title>
                      </analytic>
                      <monogr>
@@ -5223,7 +5193,6 @@
                   <biblStruct>
                      <analytic>
                         <author ref="pmb_182095">Charles de Marguetel de Saint-Denis Seigneur de Saint-Evremont</author>
-                        <!-- angelegt am 22.7.24 (sw) -->
                         <title>Grabinschrift auf den Grafen von Grammont. Geraume Zeit vor dessen am 10. Jänner 1707 im Alter von 86
                             erfolgtem Tode. Aus dem Französischen von <persName ref="pmb_9674">Richard Schaukal</persName>
                         </title>
@@ -5603,7 +5572,6 @@
                   <biblStruct>
                      <analytic>
                         <author ref="pmb_182099">Karl Schloß</author>
-                        <!-- angelegt am 22.7.24 (sw) -->
                         <title n="1">Drei Gedichte (An einem Grabe / O wie schwer ... / Klagelied)</title>
                      </analytic>
                      <monogr>
@@ -5620,7 +5588,6 @@
                   <biblStruct>
                      <analytic>
                         <author ref="pmb_182099">Karl Schloß</author>
-                        <!-- angelegt am 22.7.24 (sw) -->
                         <title n="1_1">An einem Grabe</title>
                      </analytic>
                      <monogr>
@@ -5637,7 +5604,6 @@
                   <biblStruct>
                      <analytic>
                         <author ref="pmb_182099">Karl Schloß</author>
-                        <!-- angelegt am 22.7.24 (sw) -->
                         <title n="1_2">O wie schwer ...</title>
                      </analytic>
                      <monogr>
@@ -5654,7 +5620,6 @@
                   <biblStruct>
                      <analytic>
                         <author ref="pmb_182099">Karl Schloß</author>
-                        <!-- angelegt am 22.7.24 (sw) -->
                         <title n="1_3">Klagelied</title>
                      </analytic>
                      <monogr>
@@ -7069,7 +7034,6 @@
                      <analytic>
                         <author ref="pmb_36022">Robert Walser</author>
                         <title n="3_4">4. [Aus: Sechs kleine Geschichten]</title>
-                        <!-- überprüfen ob Klammern im Titel oder Zusatz -->
                      </analytic>
                      <monogr>
                         <imprint>
@@ -7086,7 +7050,6 @@
                      <analytic>
                         <author ref="pmb_36022">Robert Walser</author>
                         <title n="3_5">5. [Aus: Sechs kleine Geschichten]</title>
-                        <!-- überprüfen ob Klammern im Titel oder Zusatz -->
                      </analytic>
                      <monogr>
                         <imprint>
@@ -7563,7 +7526,6 @@
                      <analytic>
                         <author ref="pmb_13115">C. 3. 3 (Zellenziffer Oscar Wildes)</author>
                         <title>Die Ballade vom Zuchthause zu Reading. In memoriam C. T. W. Weiland Reiter in der Königlichen Leibgarde, Hingerichtet in Ihrer Majestät Gefängnis am 7. Juli 1896</title>
-                        <!-- Titel überprüfen -->
                      </analytic>
                      <monogr>
                         <imprint>
@@ -7694,6 +7656,7 @@
                </item>
             </list>
          </div>
+         
          <!--<div>
 
 <head>Verzeichnis der Übersetzer</head>
